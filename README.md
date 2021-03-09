@@ -1,5 +1,6 @@
+<img src="https://parakoopa.de/para_logo.png?a=13" align="right" width="300">
+
 ## Hey there! 👋🙃
-<img src="https://parakoopa.de/para_logo.png" style="float: right; max-width: 50%; padding: 10px;">
 My name is Marco (though you also might know me as Parakoopa).  
 Happy to see you stumble upon my little Github profile!
 
