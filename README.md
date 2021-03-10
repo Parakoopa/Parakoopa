@@ -12,7 +12,11 @@ Happy to see you stumble upon my little Github profile!
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown        23 mins         ██████████▓░░░░░░░░░░░░░░   42.72 % 
+Bash            11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.34 % 
+YAML            8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Python          6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Apache Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
 <!--END_SECTION:waka-->
 
