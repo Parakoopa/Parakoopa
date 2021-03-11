@@ -11,39 +11,39 @@ Happy to see you stumble upon my little Github profile!
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 873 Contributions in the Year 2021
+> 🏆 894 Contributions in the Year 2021
  > 
 > 📦 119.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 67 Public Repositories 
+> 📜 66 Public Repositories 
  > 
 > 🔑 21 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    398 commits    █████░░░░░░░░░░░░░░░░░░░░   20.86% 
-🌆 Daytime    939 commits    ████████████░░░░░░░░░░░░░   49.21% 
-🌃 Evening    469 commits    ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-🌙 Night      102 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   5.35%
+🌞 Morning    489 commits    █████░░░░░░░░░░░░░░░░░░░░   21.81% 
+🌆 Daytime    1164 commits   █████████████░░░░░░░░░░░░   51.92% 
+🌃 Evening    487 commits    █████░░░░░░░░░░░░░░░░░░░░   21.72% 
+🌙 Night      102 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       351 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.4% 
-Tuesday      296 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
-Wednesday    300 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Thursday     243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
-Friday       280 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Saturday     170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-Sunday       268 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.05%
+Monday       383 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
+Tuesday      403 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
+Wednesday    378 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
+Thursday     305 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+Friday       332 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Saturday     170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Sunday       271 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
 
 ```
 
