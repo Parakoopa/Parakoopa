@@ -11,11 +11,11 @@ Happy to see you stumble upon my little Github profile!
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 894 Contributions in the Year 2021
+> 🏆 897 Contributions in the Year 2021
  > 
 > 📦 119.1 kB Used in Github's Storage 
  > 
