@@ -11,11 +11,11 @@ Happy to see you stumble upon my little Github profile!
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 994 Contributions in the Year 2021
+> 🏆 996 Contributions in the Year 2021
  > 
 > 📦 119.2 kB Used in Github's Storage 
  > 
@@ -34,12 +34,12 @@ Happy to see you stumble upon my little Github profile!
 🌙 Night      50 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       326 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
-Tuesday      327 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-Wednesday    293 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+Tuesday      326 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
+Wednesday    294 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
 Thursday     257 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
 Friday       237 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
 Saturday     128 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
