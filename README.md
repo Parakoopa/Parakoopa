@@ -15,7 +15,7 @@ Happy to see you stumble upon my little Github profile!
 
 **🐱 My Github Data** 
 
-> 🏆 1,127 Contributions in the Year 2021
+> 🏆 1,131 Contributions in the Year 2021
  > 
 > 📦 119.3 kB Used in Github's Storage 
  > 
@@ -28,22 +28,22 @@ Happy to see you stumble upon my little Github profile!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    501 commits    █████░░░░░░░░░░░░░░░░░░░░   21.56% 
-🌆 Daytime    1221 commits   █████████████░░░░░░░░░░░░   52.54% 
-🌃 Evening    494 commits    █████░░░░░░░░░░░░░░░░░░░░   21.26% 
-🌙 Night      108 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+🌞 Morning    518 commits    █████░░░░░░░░░░░░░░░░░░░░   21.56% 
+🌆 Daytime    1273 commits   █████████████░░░░░░░░░░░░   52.98% 
+🌃 Evening    504 commits    █████░░░░░░░░░░░░░░░░░░░░   20.97% 
+🌙 Night      108 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       410 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
-Tuesday      427 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-Wednesday    330 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
-Thursday     339 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-Friday       360 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
-Saturday     180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
-Sunday       278 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.96%
+Monday       418 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Tuesday      443 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
+Wednesday    358 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
+Thursday     352 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
+Friday       374 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+Saturday     180 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
+Sunday       278 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.57%
 
 ```
 
