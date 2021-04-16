@@ -15,7 +15,7 @@ Happy to see you stumble upon my little Github profile!
 
 **🐱 My Github Data** 
 
-> 🏆 1,169 Contributions in the Year 2021
+> 🏆 1,173 Contributions in the Year 2021
  > 
 > 📦 119.3 kB Used in Github's Storage 
  > 
@@ -28,9 +28,9 @@ Happy to see you stumble upon my little Github profile!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    518 commits    █████░░░░░░░░░░░░░░░░░░░░   21.4% 
+🌞 Morning    517 commits    █████░░░░░░░░░░░░░░░░░░░░   21.36% 
 🌆 Daytime    1286 commits   █████████████░░░░░░░░░░░░   53.14% 
-🌃 Evening    511 commits    █████░░░░░░░░░░░░░░░░░░░░   21.12% 
+🌃 Evening    512 commits    █████░░░░░░░░░░░░░░░░░░░░   21.16% 
 🌙 Night      105 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   4.34%
 
 ```
