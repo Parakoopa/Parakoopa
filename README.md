@@ -11,11 +11,11 @@ Happy to see you stumble upon my little Github profile!
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,606 Contributions in the Year 2021
+> 🏆 1,610 Contributions in the Year 2021
  > 
 > 📦 122.5 kB Used in Github's Storage 
  > 
@@ -38,12 +38,12 @@ Happy to see you stumble upon my little Github profile!
 
 ```text
 Monday       461 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Tuesday      485 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+Tuesday      483 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
 Wednesday    418 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
 Thursday     364 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
 Friday       391 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
 Saturday     201 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-Sunday       290 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+Sunday       292 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.19%
 
 ```
 
@@ -83,7 +83,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
