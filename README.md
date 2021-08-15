@@ -15,9 +15,9 @@ Happy to see you stumble upon my little Github profile!
 
 **🐱 My Github Data** 
 
-> 🏆 1,956 Contributions in the Year 2021
+> 🏆 1,959 Contributions in the Year 2021
  > 
-> 📦 123.1 kB Used in Github's Storage 
+> 📦 123.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,7 +83,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
