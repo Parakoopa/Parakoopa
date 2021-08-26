@@ -1,7 +1,7 @@
 <img src="https://parakoopa.de/para_logo.png?a=13" align="right" width="300">
 
 ## Hey there! 👋🙃
-My name is Marco (though you also might know me as Parakoopa).  
+My name is Marco (though you also might know me as Capypara or Parakoopa).  
 Happy to see you stumble upon my little Github profile!
 
 *I am CTO & Head of Production at <a href="http://tudock.de">Tudock</a>.*
